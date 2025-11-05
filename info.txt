@@ -1,0 +1,11 @@
+<< - - - - - SMART CLEANING AGENT - - - - - >>
+
+Agent will get 8 turns (8 steps):
+
+In on step-> one room checked where it is present.
+
+Each step (one cycle where the agent):
+1) check current room
+2) decides what to do
+3) perform the action
+4) update the environment
